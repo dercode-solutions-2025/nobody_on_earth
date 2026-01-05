@@ -23,7 +23,7 @@ Right now I'm working on:
 * Learning new things
 * Reading
 * Coding
-## My Favorite Things
+## My Favorite Things 👍
 * Elden Ring
 * Assassin's Creed (All games)
 * Computers

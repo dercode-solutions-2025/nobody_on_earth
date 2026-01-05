@@ -29,6 +29,5 @@ Right now I'm working on:
 * Computers
 * Games
 * Minecraft
-* Red Dead Redemption Series (Online for 1 and 2, both base games, undead nightmare) \
- \
+* Red Dead Redemption Series (Online for 1 and 2, both base games, undead nightmare)
 # Goodbye, and have a good day!

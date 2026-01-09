@@ -1,6 +1,6 @@
 # dercode-solutions2025
 ## What I'm Doing ✏️
-Right now I am working on my interpreter/compiler for my custom implementation of Crystal (.cr).
+Right now I am working on my compiler for ZS+ (.zsp).
 ## Projects 📑
 Right now I'm working on:
 * CrPy (Python implementation of Crystal)
@@ -15,7 +15,6 @@ Right now I'm working on:
 * Making my own game engine
 ## Socials 🌐
 * YouTube: sbeve_specialist
-* Discord: hehe_sussy03869 (I made it when I was 11)
 ## Things I Enjoy 😀
 * Playing Elden Ring
 * Playing Enlisted

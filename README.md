@@ -1,4 +1,5 @@
 # dercode-solutions2025
+I am a 13 year old from Alabama!
 ## What I'm Doing ✏️
 Right now I am working on my compiler for ZS+ (.zsp).
 ## Projects 📑

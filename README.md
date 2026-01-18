@@ -1,3 +1,4 @@
+![Top Langs](https://github-readme-stats.vercel.app)
 # dercode-solutions2025
 I am a 13 year old from Alabama!
 ## What I'm Doing ✏️

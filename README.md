@@ -53,8 +53,7 @@ Right now I'm working on:
 - Go
 - Ruby
 - Deadfish
-- Crystal
-
+- JavaScript
 ---
 
 **Goodbye, and have a good day! 👋**

@@ -1,4 +1,12 @@
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dercode-solutions-2025)](https://github.com/dercode-solutions-2025/github-readme-stats)
+<a href="">
+  <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api?username=dercode-solutions-2025&theme=github_light&hide=contribs&show_icons=true" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats-seven-white-76.vercel.app/api/top-langs/?username=dercode-solutions-2025&theme=github_light&layout=compact" />
+</a>
+
+<br/>
+<br/>
 # dercode-solutions2025
 I am a 13 year old from Alabama!
 ## What I'm Doing ✏️

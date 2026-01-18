@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dercode-solutions-2025)](https://github.com/dercode-solutions-2025/github-readme-stats)
 # dercode-solutions2025
 I am a 13 year old from Alabama!
 ## What I'm Doing ✏️

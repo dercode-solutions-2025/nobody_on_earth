@@ -1,50 +1,60 @@
-<a href="">
-  <img align="center" src="https://github-readme-stats-seven-black-76.vercel.app/api?username=dercode-solutions-2025&theme=github_light&hide=contribs&show_icons=true" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats-seven-white-76.vercel.app/api/top-langs/?username=dercode-solutions-2025&theme=github_light&layout=compact" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats-seven-black-76.vercel.app/api?username=dercode-solutions-2025&hide=contribs&show_icons=true" />
+  <img src="https://github-readme-stats-seven-black-76.vercel.app/api/top-langs/?username=dercode-solutions-2025&layout=compact" />
+</p>
 
-<br/>
-<br/>
-# dercode-solutions2025
+---
+
+# dercode-solutions-2025
+
 I am a 13 year old from Alabama!
+
 ## What I'm Doing ✏️
-Right now I am working on my compiler for LC (Light Cobol)
+Right now I am working on my compiler for **LC (Light Cobol)**
+
 ## Projects 📑
 Right now I'm working on:
-* LC
-* Making my horror game (PLUTO)
-* School
+- LC
+- Making my horror game (**PLUTO**)
+- School
+
 ## Goals ⚽
-* Learning Python
-* Making my own programming language
-* Learning Assembly
-* Learning C
-* Making my own CPU
-* Making my own game engine
+- Learning Python
+- Making my own programming language
+- Learning Assembly
+- Learning C
+- Making my own CPU
+- Making my own game engine
+
 ## Socials 🌐
-* YouTube: sbeve_specialist
+- YouTube: **sbeve_specialist**
+
 ## Things I Enjoy 😀
-* Playing Elden Ring
-* Playing Enlisted
-* Watching YouTube
-* Learning new things
-* Reading
-* Coding
+- Playing Elden Ring
+- Playing Enlisted
+- Watching YouTube
+- Learning new things
+- Reading
+- Coding
+
 ## My Favorite Things 👍
-* Elden Ring
-* Assassin's Creed (All games)
-* Computers
-* Games
-* Minecraft
-* Red Dead Redemption Series (Online for 1 and 2, both base games, undead nightmare)
+- Elden Ring
+- Assassin's Creed (All games)
+- Computers
+- Games
+- Minecraft
+- Red Dead Redemption Series  
+  *(RDR1 + Online, RDR2 + Online, Undead Nightmare)*
+
 ## Languages 🖥
-* Python
-* C
-* Rust
-* Go
-* Ruby
-* Deadfish
-* Crystal
-# Goodbye, and have a good day!
+- Python
+- C
+- Rust
+- Go
+- Ruby
+- Deadfish
+- Crystal
+
+---
+
+**Goodbye, and have a good day! 👋**
